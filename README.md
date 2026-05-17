@@ -68,13 +68,15 @@
   <tr>
     <td width="100%">
 
-#### Deni Yangu &middot; *Credit verification for small traders*
+#### Crochet &middot; *Designer showcase &amp; admin platform*
 
-A platform that helps small traders in Kenya reduce losses by **checking and recording customer debt history** before issuing goods on credit — built around the realities of informal lending.
+A modern, responsive React website built to **showcase crochet designs** and grow the client's online presence — paired with an **admin panel** so staff can manage content and updates without developer involvement.
 
 | Built with | Status | Repo |
 | :--- | :--- | :--- |
-| MERN Stack | In active development | <!-- replace REPO -->[View →](https://github.com/Winney360/REPO) |
+| React &middot; Responsive UI | Delivered | [View →](https://github.com/Winney360/Crochet) |
+
+**Impact** &nbsp; · &nbsp; Increased visibility &amp; engagement &nbsp; · &nbsp; Improved usability &nbsp; · &nbsp; Reduced staff workload
 
 </td>
   </tr>
