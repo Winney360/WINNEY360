@@ -52,8 +52,11 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Winney360&show_icons=true&hide_border=true&title_color=34D399&icon_color=34D399&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=14400&v=2" alt="GitHub Stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winney360&layout=compact&hide_border=true&title_color=34D399&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=14400&v=2" alt="Top Languages"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Winney360&theme=transparent&hide_border=true&ring=34D399&fire=34D399&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=34D399&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/34D399/Winney360" alt="Winfred's GitHub contribution graph" width="92%"/>
 
 </div>
 
