@@ -52,17 +52,17 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Winney360&theme=merko" alt="Profile Details" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Winney360&theme=vue-dark" alt="Profile Details" width="98%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Winney360&theme=merko" alt="Repos per Language" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Winney360&theme=merko" alt="Most Commit Language" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Winney360&theme=vue-dark" alt="Repos per Language" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Winney360&theme=vue-dark" alt="Most Commit Language" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Winney360&theme=merko&utcOffset=3" alt="Productive Time" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Winney360&theme=merko" alt="Stats" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Winney360&theme=vue-dark&utcOffset=3" alt="Productive Time" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Winney360&theme=vue-dark" alt="Stats" width="48%"/>
 
 </div>
 
