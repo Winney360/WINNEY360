@@ -52,11 +52,17 @@
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Winney360&theme=transparent&hide_border=true&ring=34D399&fire=34D399&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=34D399&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Winney360&theme=merko" alt="Profile Details" width="98%"/>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/34D399/Winney360" alt="Winfred's GitHub contribution graph" width="92%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Winney360&theme=merko" alt="Repos per Language" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Winney360&theme=merko" alt="Most Commit Language" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Winney360&theme=merko&utcOffset=3" alt="Productive Time" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Winney360&theme=merko" alt="Stats" width="48%"/>
 
 </div>
 
